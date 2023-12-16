@@ -67,7 +67,7 @@ img {
 	border-style: none;
 }
 a{
-	color:#18ba60;
+	color:#145431;
     transition: .5s;
     text-decoration: none;
 }
@@ -76,7 +76,7 @@ a:active {
 	color:transparent;
 	outline: 0 none;
 	text-decoration: none;
-	color:#18ba60;
+	color:#0e4f2b;
 }
 
 ul, ol{
@@ -90,7 +90,7 @@ ul, ol{
 /* Preloader*/
 
 .preloader {
-    background: #18ba60;
+    background: #0d4e2a;
     bottom: 0;
     left: 0;
     position: fixed;
